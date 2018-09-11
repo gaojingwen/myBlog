@@ -4,7 +4,7 @@ lang: zh-CN
 heroImage: /logo.jpg
 actionText: coming →
 actionLink: /recondJAVASCRIPT/
-footer: MIT Licensed | Copyright ? 2018-present Evan You
+footer: MIT Licensed | Copyright ? 2018-present SANPANG LI
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
