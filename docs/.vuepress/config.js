@@ -1,6 +1,6 @@
 module.exports = {
     title: '小三胖技术栈',
-    description: '网站描述',
+    description: '佛系前端大神',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['meta', { charset: 'UTF-8' }],
