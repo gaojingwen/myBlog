@@ -2,39 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505eec22-db83-4a9a-9571-7e0cec5635de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondES6/从promise到async function.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/JS数组循环的性能和效率分析（for、while、forEach、map、for of）.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/JavaScript 运行原理解析.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/分享前端开发常用代码片段.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/前端开发常用代码片段.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/深入深入再深入 js 深拷贝对象.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/请你实现一个深克隆.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondNODE/《Node.js设计模式》使用流进行编码.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondPROJECT/web 前端优化.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/手摸手教你搭建一个类Vue文档风格的技术文档.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondES6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondFEATURE/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondGIT/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondNODE/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondPROJECT/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/README.md" afterPath="$PROJECT_DIR$/docs/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" afterPath="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" afterPath="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" afterPath="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" afterPath="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" afterPath="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" afterPath="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" afterPath="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" afterPath="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" afterPath="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" afterPath="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/recondJAVASCRIPT/ES2018 新特征之：异步迭代器 for-await-of.md" afterPath="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/recondJAVASCRIPT/README.md" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/recondJAVASCRIPT/浅谈浏览器http的缓存机制.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/浅谈浏览器http的缓存机制.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,157 +47,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="234">
+              <caret line="166" column="35" lean-forward="false" selection-start-line="166" selection-start-column="35" selection-end-line="166" selection-end-column="35" />
               <folding>
                 <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
                 <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
-                <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="扫码登录实现原理.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="整理了一些常用的 Git 命令清单.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/recondFEATURE/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7分钟理解JS的节流、防抖及使用场景.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/7分钟理解JS的节流、防抖及使用场景.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="《Node.js设计模式》使用流进行编码.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondNODE/《Node.js设计模式》使用流进行编码.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MYSQL 入门全套.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web 前端优化.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondPROJECT/web 前端优化.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="(前端项目实战) 微信 H5音乐项目总结.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vue.js最佳实践（五招让你成为Vue.js大师）.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -222,11 +119,29 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/Bit.vue" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$USER_HOME$/Downloads/xiangsuxiaoniao/21.js" />
-        <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/prod.server.js" />
         <option value="$PROJECT_DIR$/docs/README.md" />
+        <option value="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" />
+        <option value="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" />
+        <option value="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" />
+        <option value="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" />
+        <option value="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" />
+        <option value="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" />
+        <option value="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" />
+        <option value="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" />
+        <option value="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" />
+        <option value="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" />
+        <option value="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" />
+        <option value="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" />
+        <option value="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" />
+        <option value="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" />
+        <option value="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" />
+        <option value="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" />
+        <option value="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" />
+        <option value="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
       </list>
     </option>
   </component>
@@ -281,12 +196,6 @@
               <item name="myBlog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="recondGIT" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -304,15 +213,15 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\groups\node\myBlog\docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\groups\node\myBlog\docs\recondVUE" />
       <recent name="E:\groups\node\myBlog\docs\recondSUMMARY" />
-      <recent name="E:\groups\node\myBlog\docs\recondRESUME" />
       <recent name="E:\groups\node\myBlog\docs\recondPROJECT" />
       <recent name="E:\groups\node\myBlog\docs\recondOTHER" />
+      <recent name="E:\groups\node\myBlog\docs\recondNODE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\groups\node\myBlog\docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -355,32 +264,34 @@
       <workItem from="1536626415305" duration="8693000" />
       <workItem from="1536659564774" duration="2571000" />
       <workItem from="1536906576078" duration="4705000" />
+      <workItem from="1537176629196" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16261000" />
+    <option name="totallyTimeSpent" value="17236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26045626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17173637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46153846" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34405595" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,243 +307,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="76" lean-forward="true" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
-          <folding>
-            <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/Bit.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/Bit.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/xiangsuxiaoniao/21.js" />
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.106999df.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.6070c9df.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/Bit.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.a20817cc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prod.server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/prod.server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="92" column="4" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.a20817cc.js" />
+    <entry file="file://$PROJECT_DIR$/prod.server.js" />
+    <entry file="file://$PROJECT_DIR$/docs/prod.server.js" />
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" />
     <entry file="file://$PROJECT_DIR$/docs/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -646,6 +332,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondRESUME/(前端项目实战) 微信 H5音乐项目总结.md" />
     <entry file="file://$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -659,21 +346,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/docs/recondES6/从promise到async function.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
@@ -716,7 +398,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/JavaScript 运行原理解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/JS数组循环的性能和效率分析（for、while、forEach、map、for of）.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/前端开发常用代码片段.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/深入深入再深入 js 深拷贝对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/请你实现一个深克隆.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/recondNODE/《Node.js设计模式》使用流进行编码.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -742,6 +515,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondOTHER/浅谈浏览器http的缓存机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/recondPROJECT/web 前端优化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -755,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/recondRESUME/(前端项目实战) 微信 H5音乐项目总结.md">
+    <entry file="file://$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -768,7 +593,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -791,6 +655,218 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondVUE/手摸手教你搭建一个类Vue文档风格的技术文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondES6/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondFEATURE/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondGIT/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondNODE/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondOTHER/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondPROJECT/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondSUMMARY/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondVUE/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="166" column="35" lean-forward="false" selection-start-line="166" selection-start-column="35" selection-end-line="166" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
+            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/recondFEATURE/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

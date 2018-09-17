@@ -1,4 +1,4 @@
-## 用 Node.js 的 16 行代码创建一个简单的天气 App
+# 用 Node.js 的 16 行代码创建一个简单的天气 App
 
 景朝阳 [AutoCFE](javascript:void(0);) *2017-09-01*
 

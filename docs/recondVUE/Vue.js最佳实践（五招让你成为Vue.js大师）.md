@@ -1,4 +1,4 @@
-## Vue.js最佳实践（五招让你成为Vue.js大师）
+# Vue.js最佳实践（五招让你成为Vue.js大师）
 
 [前端大学](javascript:void(0);) *4月15日*
 

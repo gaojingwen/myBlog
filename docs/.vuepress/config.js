@@ -11,7 +11,7 @@ module.exports = {
         lineNumbers: true // 代码块显示行号
     },
     // serviceWorker: true,
-    port: 6666,
+    // port: 6666,
     evergreen: true,
     themeConfig: {
         sidebarDepth: 2, // e'b将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
@@ -56,9 +56,14 @@ function jsSidebarConfig (title) {
       collapsable: false,
       children: [
         '',
-        '浅谈浏览器http的缓存机制',
         '7分钟理解JS的节流、防抖及使用场景',
-        'ES2018 新特征之：异步迭代器 for-await-of'
+        'JavaScript 运行原理解析',
+        'js--API',
+        'JS数组循环的性能和效率分析（for、while、forEach、map、for of）',
+        '分享前端开发常用代码片段',
+        '前端开发常用代码片段',
+        '深入深入再深入 js 深拷贝对象',
+        '请你实现一个深克隆'
       ]
     }
   ]
@@ -71,9 +76,11 @@ function vueSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                'Vue.js最佳实践（五招让你成为Vue.js大师）',
+                'vue2.0 项目开发小结',
+                '一套 Vue 的单页模板：N3-admin',
+                '当前 GitHub 上排名前十的热门 Vue 项目',
+                '手摸手教你搭建一个类Vue文档风格的技术文档'
             ]
         }
     ]
@@ -86,9 +93,8 @@ function nodeSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                '《Node.js设计模式》使用流进行编码',
+                '用 Node.js 的 16 行代码创建一个简单的天气 App'
             ]
         }
     ]
@@ -101,9 +107,8 @@ function es6SidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                'ES2018 新特征之：异步迭代器 for-await-of',
+                '从promise到async function'
             ]
         }
     ]
@@ -116,9 +121,9 @@ function projectSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                'web 前端优化',
+                '基于 webpack 的前后端分离开发环境实践',
+                '很全很全的 JavaScript 模块讲解'
             ]
         }
     ]
@@ -131,9 +136,9 @@ function summarySidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                '(前端项目实战) 微信 H5音乐项目总结',
+                'web前端知识体系精简',
+                '如何让旧浏览器支持HTML5新标签'
             ]
         }
     ]
@@ -146,9 +151,7 @@ function featureSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                '扫码登录实现原理'
             ]
         }
     ]
@@ -161,9 +164,7 @@ function gitSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                '整理了一些常用的 Git 命令清单'
             ]
         }
     ]
@@ -176,9 +177,11 @@ function otherSidebarConfig (title) {
             collapsable: false,
             children: [
                 '',
-                '浅谈浏览器http的缓存机制',
-                '7分钟理解JS的节流、防抖及使用场景',
-                'ES2018 新特征之：异步迭代器 for-await-of'
+                'MYSQL 入门全套',
+                '一只猴子和那些超神的脚本',
+                '居然是一个中文Github网站！该不会是个假的吧？',
+                '常用的分布式事务解决方案',
+                '浅谈浏览器http的缓存机制'
             ]
         }
     ]

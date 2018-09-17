@@ -1,4 +1,4 @@
-## 当前 GitHub 上排名前十的热门 Vue 项目
+# 当前 GitHub 上排名前十的热门 Vue 项目
 
 [SegmentFault](javascript:void(0);) *2017-08-15*
 

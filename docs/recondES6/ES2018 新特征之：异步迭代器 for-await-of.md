@@ -1,4 +1,4 @@
-## ES2018 新特征之：异步迭代器 for-await-of
+# ES2018 新特征之：异步迭代器 for-await-of
 
 原创： justjavac [justjavac](javascript:void(0);) *2月26日*
 

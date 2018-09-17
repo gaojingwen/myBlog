@@ -1,4 +1,4 @@
-## 很全很全的 JavaScript 模块讲解
+# 很全很全的 JavaScript 模块讲解
 
 [前端大全](javascript:void(0);) *1月2日*
 

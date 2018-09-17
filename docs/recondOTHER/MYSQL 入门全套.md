@@ -1,4 +1,4 @@
-## MYSQL 入门全套
+# MYSQL 入门全套
 
 [Python那些事](javascript:void(0);) *2017-09-21*
 

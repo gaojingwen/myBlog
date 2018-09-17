@@ -1,4 +1,4 @@
-## vue2.0 项目开发小结
+# vue2.0 项目开发小结
 
 离尘不理人 [SegmentFault](javascript:void(0);) *2017-09-11*
 
