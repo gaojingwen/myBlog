@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505eec22-db83-4a9a-9571-7e0cec5635de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondES6/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondFEATURE/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondGIT/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondNODE/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondOTHER/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondPROJECT/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondVUE/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" afterPath="$PROJECT_DIR$/docs/recondES6/ES2018 新特征之：异步迭代器 for-await-of.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" afterPath="$PROJECT_DIR$/docs/recondFEATURE/扫码登录实现原理.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" afterPath="$PROJECT_DIR$/docs/recondGIT/整理了一些常用的 Git 命令清单.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/js--API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" afterPath="$PROJECT_DIR$/docs/recondNODE/用 Node.js 的 16 行代码创建一个简单的天气 App.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/MYSQL 入门全套.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/一只猴子和那些超神的脚本.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/居然是一个中文Github网站！该不会是个假的吧？.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" afterPath="$PROJECT_DIR$/docs/recondOTHER/常用的分布式事务解决方案.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" afterPath="$PROJECT_DIR$/docs/recondPROJECT/基于 webpack 的前后端分离开发环境实践.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" afterPath="$PROJECT_DIR$/docs/recondPROJECT/很全很全的 JavaScript 模块讲解.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/(前端项目实战) 微信 H5音乐项目总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/web前端知识体系精简.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" afterPath="$PROJECT_DIR$/docs/recondSUMMARY/如何让旧浏览器支持HTML5新标签.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" afterPath="$PROJECT_DIR$/docs/recondVUE/Vue.js最佳实践（五招让你成为Vue.js大师）.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" afterPath="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" afterPath="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" afterPath="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -264,12 +233,12 @@
       <workItem from="1536626415305" duration="8693000" />
       <workItem from="1536659564774" duration="2571000" />
       <workItem from="1536906576078" duration="4705000" />
-      <workItem from="1537176629196" duration="975000" />
+      <workItem from="1537176629196" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17236000" />
+    <option name="totallyTimeSpent" value="17412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -835,6 +804,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/recondFEATURE/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -848,24 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/recondFEATURE/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
