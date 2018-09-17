@@ -22,4 +22,3 @@ git commit -m 'blog'
 # 如果发布到 https://<USERNAME>.github.io/<REPO>  REPO=github上的项目
 git push -f git@github.com:gaojingwen/myBlog.git master
 
-cd -
