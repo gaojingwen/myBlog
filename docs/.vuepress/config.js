@@ -57,6 +57,7 @@ function jsSidebarConfig (title) {
       children: [
         '',
         '7分钟理解JS的节流、防抖及使用场景',
+        'FormData 对象的使用',
         'JavaScript 运行原理解析',
         'js--API',
         'JS数组循环的性能和效率分析（for、while、forEach、map、for of）',

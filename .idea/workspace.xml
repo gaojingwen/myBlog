@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505eec22-db83-4a9a-9571-7e0cec5635de" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/recondJAVASCRIPT/FormData 对象的使用.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,55 +18,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="166" column="35" lean-forward="false" selection-start-line="166" selection-start-column="35" selection-end-line="166" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="59" column="23" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
               <folding>
-                <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
+                <element signature="e#17#2042#0" expanded="false" />
+                <element signature="e#110#242#0" expanded="false" />
+                <element signature="e#301#345#0" expanded="false" />
+                <element signature="e#351#374#0" expanded="false" />
+                <element signature="e#432#2040#0" expanded="false" />
+                <element signature="e#536#561#0" expanded="false" />
+                <element signature="e#603#1417#0" expanded="false" />
+                <element signature="e#1308#1315#0" expanded="false" />
+                <element signature="e#1436#2034#0" expanded="false" />
                 <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
+                <element signature="e#2490#2832#0" expanded="false" />
+                <element signature="e#2500#2826#0" expanded="false" />
+                <element signature="e#2575#2816#0" expanded="false" />
+                <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
+                <element signature="e#2884#3110#0" expanded="false" />
+                <element signature="e#2894#3104#0" expanded="false" />
+                <element signature="e#2969#3094#0" expanded="false" />
+                <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
+                <element signature="e#3161#3389#0" expanded="false" />
+                <element signature="e#3171#3383#0" expanded="false" />
+                <element signature="e#3246#3373#0" expanded="false" />
+                <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
+                <element signature="e#3444#3691#0" expanded="false" />
+                <element signature="e#3454#3685#0" expanded="false" />
+                <element signature="e#3529#3675#0" expanded="false" />
+                <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
+                <element signature="e#3746#3989#0" expanded="false" />
+                <element signature="e#3756#3983#0" expanded="false" />
+                <element signature="e#3831#3973#0" expanded="false" />
+                <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
+                <element signature="e#4044#4207#0" expanded="false" />
+                <element signature="e#4054#4201#0" expanded="false" />
+                <element signature="e#4129#4191#0" expanded="false" />
+                <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
+                <element signature="e#4258#4430#0" expanded="false" />
+                <element signature="e#4268#4424#0" expanded="false" />
+                <element signature="e#4343#4414#0" expanded="false" />
+                <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
+                <element signature="e#4483#4791#0" expanded="false" />
+                <element signature="e#4493#4785#0" expanded="false" />
+                <element signature="e#4568#4775#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deploy.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/recondFEATURE/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-              <folding />
+      <file leaf-file-name="FormData 对象的使用.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/FormData 对象的使用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -109,8 +125,8 @@
         <option value="$PROJECT_DIR$/docs/recondVUE/vue2.0 项目开发小结.md" />
         <option value="$PROJECT_DIR$/docs/recondVUE/一套 Vue 的单页模板：N3-admin.md" />
         <option value="$PROJECT_DIR$/docs/recondVUE/当前 GitHub 上排名前十的热门 Vue 项目.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
       </list>
     </option>
   </component>
@@ -165,6 +181,12 @@
               <item name="myBlog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="recondJAVASCRIPT" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,11 +205,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\groups\node\myBlog\docs\recondJAVASCRIPT" />
       <recent name="E:\groups\node\myBlog\docs\recondVUE" />
       <recent name="E:\groups\node\myBlog\docs\recondSUMMARY" />
       <recent name="E:\groups\node\myBlog\docs\recondPROJECT" />
       <recent name="E:\groups\node\myBlog\docs\recondOTHER" />
-      <recent name="E:\groups\node\myBlog\docs\recondNODE" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\groups\node\myBlog\docs" />
@@ -233,12 +255,12 @@
       <workItem from="1536626415305" duration="8693000" />
       <workItem from="1536659564774" duration="2571000" />
       <workItem from="1536906576078" duration="4705000" />
-      <workItem from="1537176629196" duration="1243000" />
+      <workItem from="1537176629196" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17504000" />
+    <option name="totallyTimeSpent" value="17670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -276,7 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/Bit.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -820,22 +841,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="166" column="35" lean-forward="false" selection-start-line="166" selection-start-column="35" selection-end-line="166" selection-end-column="35" />
-          <folding>
-            <element signature="n#!!block;n#jsSidebarConfig#0" expanded="false" />
-            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/recondJAVASCRIPT/FormData 对象的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="59" column="23" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding>
+            <element signature="e#17#2042#0" expanded="false" />
+            <element signature="e#110#242#0" expanded="false" />
+            <element signature="e#301#345#0" expanded="false" />
+            <element signature="e#351#374#0" expanded="false" />
+            <element signature="e#432#2040#0" expanded="false" />
+            <element signature="e#536#561#0" expanded="false" />
+            <element signature="e#603#1417#0" expanded="false" />
+            <element signature="e#1308#1315#0" expanded="false" />
+            <element signature="e#1436#2034#0" expanded="false" />
+            <element signature="n#!!block;n#vueSidebarConfig#0" expanded="false" />
+            <element signature="e#2490#2832#0" expanded="false" />
+            <element signature="e#2500#2826#0" expanded="false" />
+            <element signature="e#2575#2816#0" expanded="false" />
+            <element signature="n#!!block;n#nodeSidebarConfig#0" expanded="false" />
+            <element signature="e#2884#3110#0" expanded="false" />
+            <element signature="e#2894#3104#0" expanded="false" />
+            <element signature="e#2969#3094#0" expanded="false" />
+            <element signature="n#!!block;n#es6SidebarConfig#0" expanded="false" />
+            <element signature="e#3161#3389#0" expanded="false" />
+            <element signature="e#3171#3383#0" expanded="false" />
+            <element signature="e#3246#3373#0" expanded="false" />
+            <element signature="n#!!block;n#projectSidebarConfig#0" expanded="false" />
+            <element signature="e#3444#3691#0" expanded="false" />
+            <element signature="e#3454#3685#0" expanded="false" />
+            <element signature="e#3529#3675#0" expanded="false" />
+            <element signature="n#!!block;n#summarySidebarConfig#0" expanded="false" />
+            <element signature="e#3746#3989#0" expanded="false" />
+            <element signature="e#3756#3983#0" expanded="false" />
+            <element signature="e#3831#3973#0" expanded="false" />
+            <element signature="n#!!block;n#featureSidebarConfig#0" expanded="false" />
+            <element signature="e#4044#4207#0" expanded="false" />
+            <element signature="e#4054#4201#0" expanded="false" />
+            <element signature="e#4129#4191#0" expanded="false" />
+            <element signature="n#!!block;n#gitSidebarConfig#0" expanded="false" />
+            <element signature="e#4258#4430#0" expanded="false" />
+            <element signature="e#4268#4424#0" expanded="false" />
+            <element signature="e#4343#4414#0" expanded="false" />
+            <element signature="n#!!block;n#otherSidebarConfig#0" expanded="false" />
+            <element signature="e#4483#4791#0" expanded="false" />
+            <element signature="e#4493#4785#0" expanded="false" />
+            <element signature="e#4568#4775#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
